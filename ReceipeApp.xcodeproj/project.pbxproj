@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		446EB91B23DC2DE900FB5217 /* Screen Recording 2020-01-25 at 11.55.58 AM.mov in Resources */ = {isa = PBXBuildFile; fileRef = 446EB91A23DC2DE900FB5217 /* Screen Recording 2020-01-25 at 11.55.58 AM.mov */; };
+		446EB91B23DC2DE900FB5217 /* video.mov in Resources */ = {isa = PBXBuildFile; fileRef = 446EB91A23DC2DE900FB5217 /* video.mov */; };
 		F3067751230D0D0D0075E900 /* ReceipeDetails.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3067750230D0D0D0075E900 /* ReceipeDetails.swift */; };
 		F3067767230D3F1D0075E900 /* IngredientsTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3067766230D3F1D0075E900 /* IngredientsTableViewCell.swift */; };
 		F3067769230D3F410075E900 /* DirectionTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3067768230D3F410075E900 /* DirectionTableViewCell.swift */; };
@@ -36,7 +36,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		446EB91A23DC2DE900FB5217 /* Screen Recording 2020-01-25 at 11.55.58 AM.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; name = "Screen Recording 2020-01-25 at 11.55.58 AM.mov"; path = "../../../../../../Desktop/Screen Recording 2020-01-25 at 11.55.58 AM.mov"; sourceTree = "<group>"; };
+		446EB91A23DC2DE900FB5217 /* video.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; name = video.mov; path = ../../../../../../Desktop/video.mov; sourceTree = "<group>"; };
 		F3067750230D0D0D0075E900 /* ReceipeDetails.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReceipeDetails.swift; sourceTree = "<group>"; };
 		F3067766230D3F1D0075E900 /* IngredientsTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IngredientsTableViewCell.swift; sourceTree = "<group>"; };
 		F3067768230D3F410075E900 /* DirectionTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DirectionTableViewCell.swift; sourceTree = "<group>"; };
@@ -80,7 +80,7 @@
 		446EB91923DC2DD000FB5217 /* Assets */ = {
 			isa = PBXGroup;
 			children = (
-				446EB91A23DC2DE900FB5217 /* Screen Recording 2020-01-25 at 11.55.58 AM.mov */,
+				446EB91A23DC2DE900FB5217 /* video.mov */,
 			);
 			path = Assets;
 			sourceTree = "<group>";
@@ -246,7 +246,7 @@
 				F33B4B01230AC06A00902D2D /* Lato-Bol.ttf in Resources */,
 				F33B4B03230AC06A00902D2D /* Lato-BlaIta.ttf in Resources */,
 				F33B4AFE230AC06A00902D2D /* Lato-RegIta.ttf in Resources */,
-				446EB91B23DC2DE900FB5217 /* Screen Recording 2020-01-25 at 11.55.58 AM.mov in Resources */,
+				446EB91B23DC2DE900FB5217 /* video.mov in Resources */,
 				F33B4B02230AC06A00902D2D /* Lato-BolIta.ttf in Resources */,
 				F33B4AFD230AC06A00902D2D /* Lato-Lig.ttf in Resources */,
 				F33B4B00230AC06A00902D2D /* Lato-Bla.ttf in Resources */,
